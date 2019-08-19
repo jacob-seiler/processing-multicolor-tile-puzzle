@@ -1,2 +1,3 @@
-# processing-multicolor-tile-puzzle
-Multicolor Tile Puzzle from Undertale, randomly generated in Processing JS
+# Multicolor Tile Puzzle (game made with Processing JS)
+
+Check it out: https://jacob-seiler.github.io/processing-multicolor-tile-puzzle/
